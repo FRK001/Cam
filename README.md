@@ -35,5 +35,3 @@ git clone https://github.com/FRK001/CamPhish
 cd CamPhish
 bash camphish.sh
 ```
-### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
